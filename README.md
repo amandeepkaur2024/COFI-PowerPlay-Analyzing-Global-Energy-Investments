@@ -16,7 +16,7 @@ COFI PowerPlay: Analyzing Global Energy Investments is to systematically analyze
 - Data Visualization
 - Sharing Insights
 
-[Notebook](https://lookerstudio.google.com/u/2/reporting/4c414788-7fcf-4d43-a187-f79a44175b29/page/dnh2D)
+[Dashboard](https://lookerstudio.google.com/u/2/reporting/4c414788-7fcf-4d43-a187-f79a44175b29/page/dnh2D)
 
 **Key Performance Indicators for COFI PowerPlay: Analyzing Global Energy Investments**
 - Total Investment: The cumulative amount of financial resources committed to energy projects in Belt and Road Initiative (BRI) countries.
